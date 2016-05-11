@@ -21,8 +21,7 @@ function initMap () {
     control.bottomLeft.add(html1);
 };
 ```
-![alt text](https://github.com/rhroyston/control-js/raw/master/screenshot.png "intellisense screenshot")
-[https://github.com/rhroyston/control-js/screenshot.png|alt=octocat]
+<img src="https://github.com/rhroyston/control-js/screenshot.png" alt="intellisense screenshot">
 ## Motivation
 
 The Official Google Maps JavaScript API custom controls example example is not easy and the number of control positions are difficult to remember.  
