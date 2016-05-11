@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map{
+    height:100%;
+}
+.logo{
+    height:24px;
+}
+.copyright{
+    color:#424242;
+    padding:2px;
+    text-decoration:none;
+    background: rgb(255, 255, 255); /* The Fallback */
+    background: rgba(255, 255, 255, 0.5);
+}
