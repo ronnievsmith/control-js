@@ -1,6 +1,6 @@
 /*
 control.js v0.1 - Add custom controls to Google Maps with ease
-Created by Ron Royston, www.rack.pub
+Created by Ron Royston, https://rack.pub
 https://github.com/rhroyston/control
 License: MIT
 
