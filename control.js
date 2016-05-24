@@ -7,7 +7,7 @@ License: MIT
 control.topCenter.add.(html)
 */
 
-//Revealing Module Pattern (Public & Private) w getAA namespace
+//Revealing Module Pattern (Public & Private) w control namespace
 var control = (function() {
     
     // Public

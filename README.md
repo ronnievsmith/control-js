@@ -1,4 +1,4 @@
-# [control.js](https://github.com/rhroyston/control-js)
+# [control.js](https://rack.pub/control.min.js)
 ## Synopsis
 
 Add custom controls to Google Maps with ease.  
@@ -30,7 +30,11 @@ The official examples use JavaScript to dynamically create HTML and CSS which ar
 
 ## Installation
 
-Simply add the control.js file to your project and reference it using `<script>` tags or paste it in to your existing JavaScript.
+:checkered_flag: Load via rack.pub's global CDN
+
+`<script src="https://rack.pub/control.min.js"></script>`
+
+:rocket:  Embed control.min.js in your javascript when putting in production for best page loading performance.
 
 ## API Reference
 
