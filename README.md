@@ -60,4 +60,4 @@ Ron Royston
 
 ## License
 
-Ron Royston, www.rack.pub, MIT License
+Ron Royston, https://rack.pub, MIT License
