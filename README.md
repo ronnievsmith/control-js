@@ -41,18 +41,18 @@ The official examples use JavaScript to dynamically create HTML and CSS which ar
 Simply hand one of the methods a valid HTML string as an argument. CSS can be inline or referenced as usual.  Using intellesense in your IDE is recommended as it remonds you of the possible location options for your new custom control.
 
 ```
-    control.topCenter.add.(html)
-    control.topLeft.add.(html)
-    control.topRight.add.(html)
-    control.leftTop.add.(html)
-    control.rightTop.add.(html)
-    control.leftCenter.add.(html)
-    control.rightCenter.add.(html)
-    control.leftBottom.add.(html)
-    control.rightBottom.add.(html)
-    control.bottomCenter.add.(html)
-    control.bottomLeft.add.(html)
-    control.bottomRight.add.(html)
+    control.topCenter.add(html)
+    control.topLeft.add(html)
+    control.topRight.add(html)
+    control.leftTop.add(html)
+    control.rightTop.add(html)
+    control.leftCenter.add(html)
+    control.rightCenter.add(html)
+    control.leftBottom.add(html)
+    control.rightBottom.add(html)
+    control.bottomCenter.add(html)
+    control.bottomLeft.add(html)
+    control.bottomRight.add(html)
 ```
 ## Contributors
 
