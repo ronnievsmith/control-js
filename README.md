@@ -1,4 +1,4 @@
-# [control.js](https://rack.pub/control.min.js)
+# control.js
 ## Synopsis
 
 Add custom controls to Google Maps with ease.  
@@ -21,7 +21,7 @@ function initMap () {
     control.bottomLeft.add(html1);
 };
 ```
-<img src="https://github.com/rhroyston/rhroyston.github.io/blob/master/control-js-screenshot.jpg" alt="screenshot">
+<img src="https://ronnievsmith.com/media/control-js-screenshot.jpg" alt="screenshot">
 ## Motivation
 
 The Official Google Maps JavaScript API custom controls example example is not easy and the number of control positions are difficult to remember.  
@@ -60,4 +60,4 @@ Ron Royston
 
 ## License
 
-Ron Royston, https://rack.pub, MIT License
+Ronnie Smith, https://ronnievsmith.com, MIT License
